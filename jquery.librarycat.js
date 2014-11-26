@@ -63,7 +63,7 @@
         // it is proper that a cat be above it all
         $(cat_carrier).zIndex(1);
 
-        // actually insert into into the document...
+        // actually insert into the document...
 
         $(this).append(cat_carrier);
 
